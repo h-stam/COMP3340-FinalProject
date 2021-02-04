@@ -1,6 +1,7 @@
 # Hotel Management Database System
 
 Hotel Management Database System created for World Wide Web Information Systems Development.
+The Hotel Managmenet Database System was coded and developed by H. Stam (myself).
 
 Includes encryption system for administrators and guests.  Guests and administrators have the ability to register and add their information into the database.
 Both guest and administrators have a dashboard.  The guest dashboard displays the current, upcoming, and past hotel bookings.  The administrators dashboard shows all current and upocming hotel bookings.
